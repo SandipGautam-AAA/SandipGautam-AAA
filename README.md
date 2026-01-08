@@ -20,7 +20,7 @@ I am a Computer Science and IT student from Nepal, dedicated to solving problems
 | :--- | :--- |
 | **Main Engine** | ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) |
 | **Languages** | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| **Interests** | **Game Design** • **Game Jams** • **Business Strategy & Pitching** |
+| **Interests** | **Game Design**,  **Game Jams**, **Business Strategy & Pitching** |
 
 ---
 
