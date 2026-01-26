@@ -7,7 +7,7 @@ I am a Computer Science and IT student from Nepal, dedicated to solving problems
 
 ### 🏗 What I'm Building Right Now
 
-#### 🔪 [Mise en Place]
+### [[🍳 Mise-en-Place]](https://github.com/SandipGautam-AAA/Mise-en-Place)
 **A Culinary Horror Simulation Game.** I am using this project to master the full game development pipeline, focusing on C++ architecture, engine optimization, and atmospheric storytelling in Unreal Engine.
 
 #### 🏋️‍♂️ [GymHero]
