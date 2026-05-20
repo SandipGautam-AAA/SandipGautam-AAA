@@ -32,7 +32,7 @@ I am a Computer Science and IT student from Nepal, dedicated to solving problems
 
 ### 🤝 Let's Connect!
 - 📧 **Email:** sandeep2k5gautam@gmail.com
-- 👥 **Facebook:** [Find me here](https://www.facebook.com/sandeep.gautam.415971)
+- 👥 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sandipgautam-npl/)
 - 💬 **Collaborations:** I'm always open to Game Jams, discussing business ideas, or building tech solutions for local problems.
 
 ---
